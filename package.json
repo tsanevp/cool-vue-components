@@ -1,6 +1,19 @@
 {
   "name": "cool-vue-components",
   "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/tsanevp/cool-vue-components#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsanevp/cool-vue-components.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tsanevp/cool-vue-components/issues"
+  },
+  "keywords": [],
+  "type": "module",
   "main": "dist/library.js",
   "module": "dist/library.mjs",
   "files": [
@@ -9,19 +22,7 @@
   "scripts": {
     "build": "rollup -c"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tsanevp/cool-vue-components.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "module",
-  "bugs": {
-    "url": "https://github.com/tsanevp/cool-vue-components/issues"
-  },
-  "homepage": "https://github.com/tsanevp/cool-vue-components#readme",
-  "description": "",
+
   "peerDependencies": {
     "tailwindcss": "^3.4.17",
     "vue": "^3.5.13"
