@@ -1,3 +1,3 @@
-import ToggleButton from './ToggleButton.vue'
+import ToggleButton from './ToggleButton.vue';
 
-export default { ToggleButton }
+export default { ToggleButton };
